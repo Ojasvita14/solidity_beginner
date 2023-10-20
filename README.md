@@ -1,5 +1,5 @@
 # Solidity_beginner
-# project title--
+# Project title--
 
 Minting and burning tokens
 
